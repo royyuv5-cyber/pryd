@@ -1,0 +1,6 @@
+{
+  "name": "PRIMUS ENTERPRISES - Automotive Lighting & Electrical",
+  "description": "Manufacturer and wholesale distributor of automotive lighting, LED fog lamps, motorcycle indicators, DC converters and electrical accessories in New Delhi, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
